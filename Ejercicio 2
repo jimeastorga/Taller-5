@@ -9,7 +9,9 @@ a. Nombre del sistema: Lupa para detalles
 
 b. Descripción general
 La idea es un lupa inteligente motorizada diseñada para manualidades o que requieren bastantes detalles (coser, dibujar, esculpir, etc). 
-El sistema utiliza un brazo mecánico que acerca o aleja la lente de aumento hacia el objeto dependiendo de la distancia del usuario.
+El sistema utiliza un brazo mecánico que acerca o aleja la lente de aumento hacia el objeto dependiendo de la distancia del usuario. 
+Cuando el usuario inclina su cabeza o acerca sus manos hacia la zona de trabajo (detectado por el sensor), el sistema interpreta que se requiere mayor detalle y desplaza la lupa hacia el objeto para generar un "zoom" óptico real.mayor detalle y desplaza la lupa hacia el objeto para generar un "zoom" óptico real.
+Al retirarse, la lupa vuelve a su "punto 0" (posición de reposo) para despejar el campo de visión.
 
 c. Usuario objetivo
 
