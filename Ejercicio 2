@@ -17,6 +17,10 @@ c. Usuario objetivo
 Personas creativas con proyectos que requieran atención detalle y personas con baja visibilidad que realicen estas actividades.
 
 d. Entradas
+Sensor de proximidad infrarrojo con señal analógica. 
+El sensor va a medir la distancia que hay entre la persona y el objeto, para poder mapear la posición que debe de tener el motor, así el zoom se acercará o alejará.
+Microcontrolador.
+Este se encargará de convertir la distancia en la que el zoom debe acercarse o alejarse, y así asignar el grado de rotación que debe posee el servo.
 
 e. Salidas
 Actuador Principal: Servomotor de alto torque (este se encarga de mover la lupa)
